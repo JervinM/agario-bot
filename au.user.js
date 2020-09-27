@@ -7,7 +7,7 @@
 // @grant        none
 // @run-at       document-start
 // @icon         none
-// @require      https://github.com/Neonx99/agar.io-bots-extension/raw/master/au.js
+// @require      https://github.com/JervinM/agario-bot/blob/master/au.js
 // ==/UserScript==
 
 
